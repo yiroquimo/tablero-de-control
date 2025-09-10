@@ -29,7 +29,7 @@ st.write(f"Municipio TOP Delitos: {max_municipio}")
 st.write(max_municipio)
 
 # construir la pagina
-st.set_page_config(page_title="Tablero de control delitos fidcalia", layout="centered")
+st.set_page_config(page_title="Tablero de control delitos fiscaliaaaa", layout="centered")
 st.header("Tablero de control Delitos fiscalia")
-#st.markdown(f"<center><h2>Tablero de control delitos fiscalia")
+#st.markdown(f"<center><h2>Tablero de control delitos fiscaliaaaaaa")
 st.dataframe(df)
